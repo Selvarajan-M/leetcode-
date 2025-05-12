@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SELVARAJAN01/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
