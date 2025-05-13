@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SELVARAJAN01/leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Selvarajan-M/leetcode-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/1013-fibonacci-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Selvarajan-M/leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Selvarajan-M/leetcode-/tree/master/0053-maximum-subarray) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Selvarajan-M/leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Selvarajan-M/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 ## Recursion
