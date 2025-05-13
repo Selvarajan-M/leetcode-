@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Selvarajan-M/leetcode-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Selvarajan-M/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/Selvarajan-M/leetcode-/tree/master/0169-majority-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Selvarajan-M/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/SELVARAJAN01/leetcode-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0142-linked-list-cycle-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Selvarajan-M/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 ## Recursion
 |  |
