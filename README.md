@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Selvarajan-M/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Selvarajan-M/leetcode-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SELVARAJAN01/leetcode-/tree/master/0141-linked-list-cycle) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SELVARAJAN01/leetcode-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Selvarajan-M/leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Selvarajan-M/leetcode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SELVARAJAN01/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SELVARAJAN01/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Selvarajan-M/leetcode-/tree/master/0943-sum-of-subarray-minimums) |
