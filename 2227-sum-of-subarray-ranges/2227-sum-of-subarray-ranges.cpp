@@ -1,16 +1,41 @@
 class Solution {
 public:
     long long subArrayRanges(vector<int>& nums) {
-        long long sum=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            int largest=nums[i],smallest=nums[i];
-            for(int j=i+1;j<n;j++){
-                largest=max(largest,nums[j]);
-                smallest=min(smallest,nums[j]);
-                sum=(largest-smallest)+sum;
+        return sumMax(nums)-sumMin(nums);
+    }
+private:
+   long long sumMin(const vector<int>& nums){
+    int n=nums.size();
+    stack<int>st;
+    long long res=0;
+    for(int i=0;i<=n;i++){
+        while(!st.empty()&&(i==n||nums[st.top()]>=(i<n?nums[i]:INT_MIN))){
+            int mid=st.top();st.pop();
+            int left=st.empty()?-1:st.top();
+            int right=i;
+            long long count = (mid - left) * (right - mid);
+            res+=count*nums[mid]; 
+        }
+        st.push(i);
+    }
+    return res;
+   }
+
+   long long sumMax(const vector<int>& nums) {
+        int n = nums.size();
+        stack<int> st;
+        long long res = 0;
+
+        for (int i = 0; i <= n; ++i) {
+            while (!st.empty() && (i == n || nums[st.top()] <= (i < n ? nums[i] : INT_MAX))) {
+                int mid = st.top(); st.pop();
+                int left = st.empty() ? -1 : st.top();
+                int right = i;
+                long long count = (mid - left) * (right - mid);
+                res += count * nums[mid];
             }
-        } 
-        return sum;
+            st.push(i);
+        }
+        return res;
     }
 };
