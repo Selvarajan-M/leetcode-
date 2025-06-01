@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Selvarajan-M/leetcode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Selvarajan-M/leetcode-/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Selvarajan-M/leetcode-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Selvarajan-M/leetcode-/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Selvarajan-M/leetcode-/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Selvarajan-M/leetcode-/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Selvarajan-M/leetcode-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Selvarajan-M/leetcode-/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Selvarajan-M/leetcode-/tree/master/2227-sum-of-subarray-ranges) |
 ## Bit Manipulation
@@ -304,8 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Selvarajan-M/leetcode-/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/Selvarajan-M/leetcode-/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Selvarajan-M/leetcode-/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
