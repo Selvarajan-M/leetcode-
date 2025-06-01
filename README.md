@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SELVARAJAN01/leetcode-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/Selvarajan-M/leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/SELVARAJAN01/leetcode-/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Selvarajan-M/leetcode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Selvarajan-M/leetcode-/tree/master/0085-maximal-rectangle) |
