@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Selvarajan-M/leetcode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Selvarajan-M/leetcode-/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Selvarajan-M/leetcode-/tree/master/0943-sum-of-subarray-minimums) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Selvarajan-M/leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/Selvarajan-M/leetcode-/tree/master/2227-sum-of-subarray-ranges) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SELVARAJAN01/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Selvarajan-M/leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Selvarajan-M/leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Simulation
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvarajan-M/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Selvarajan-M/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Selvarajan-M/leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
