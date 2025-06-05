@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SELVARAJAN01/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Selvarajan-M/leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Selvarajan-M/leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/SELVARAJAN01/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Selvarajan-M/leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Selvarajan-M/leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Selvarajan-M/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Selvarajan-M/leetcode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Selvarajan-M/leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
