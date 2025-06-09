@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SELVARAJAN01/leetcode-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SELVARAJAN01/leetcode-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Selvarajan-M/leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Selvarajan-M/leetcode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SELVARAJAN01/leetcode-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Selvarajan-M/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SELVARAJAN01/leetcode-/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Selvarajan-M/leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Selvarajan-M/leetcode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Selvarajan-M/leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Selvarajan-M/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Selvarajan-M/leetcode-/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Selvarajan-M/leetcode-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Selvarajan-M/leetcode-/tree/master/0890-lemonade-change) |
