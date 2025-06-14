@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Selvarajan-M/leetcode-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Selvarajan-M/leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/2481-strictly-palindromic-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/SELVARAJAN01/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Selvarajan-M/leetcode-/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SELVARAJAN01/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Selvarajan-M/leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SELVARAJAN01/leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SELVARAJAN01/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Selvarajan-M/leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Selvarajan-M/leetcode-/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SELVARAJAN01/leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Selvarajan-M/leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Selvarajan-M/leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SELVARAJAN01/leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SELVARAJAN01/leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Selvarajan-M/leetcode-/tree/master/0455-assign-cookies) |
