@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Selvarajan-M/leetcode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SELVARAJAN01/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Selvarajan-M/leetcode-/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/Selvarajan-M/leetcode-/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Selvarajan-M/leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SELVARAJAN01/leetcode-/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/SELVARAJAN01/leetcode-/tree/master/0216-combination-sum-iii) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Selvarajan-M/leetcode-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Selvarajan-M/leetcode-/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Selvarajan-M/leetcode-/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Selvarajan-M/leetcode-/tree/master/0455-assign-cookies) |
