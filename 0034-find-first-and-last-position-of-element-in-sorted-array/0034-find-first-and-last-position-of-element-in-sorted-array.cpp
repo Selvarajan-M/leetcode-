@@ -1,35 +1,43 @@
 class Solution {
 public:
-    int lowerBound(vector<int>& arr, int k) {
-        int n = arr.size();
-        int low = 0, high = n;
-        while (low < high) {
-            int mid = low + (high - low) / 2; 
-            if (arr[mid] < k)
-                low = mid + 1;
-            else
-                high = mid;
+    int firstOccurences(vector<int>&nums,int target){
+     int n=nums.size();
+     int low=0,high=n-1;
+     int first=-1;
+     while(low<=high){
+        int mid=low+(high-low)/2;
+        if(nums[mid]==target){
+            first=mid;
+            high=mid-1;
+        }   
+        else if(nums[mid]<target)
+        low=mid+1;
+        else
+        high=mid-1;
         }
-        return low;
+        return first;   
     }
-    int upperBound(vector<int>& arr, int target) {
-        int n = arr.size();
-        int low = 0, high = n;
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (arr[mid] <= target)
-                low = mid + 1;
-            else
-                high = mid;
+    int lastOccurences(vector<int>&nums,int target){
+     int n=nums.size();
+     int low=0,high=n-1;
+     int last=-1;
+     while(low<=high){
+        int mid=low+(high-low)/2;
+        if(nums[mid]==target){
+            last=mid;
+            low=mid+1;;
+        }   
+        else if(nums[mid]<target)
+        low=mid+1;
+        else
+        high=mid-1;
         }
-
-        return low;
+        return last;   
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb=lowerBound(nums,target);
-        int n=nums.size();
-        if(lb==n||nums[lb]!=target) return {-1,-1};
-        return {lb,upperBound(nums,target)-1};
+        int first=firstOccurences(nums,target);
+        if(first==-1) return {-1,-1};
+        int last=lastOccurences(nums,target);
+        return {first,last};
     }
 };
