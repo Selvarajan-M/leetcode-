@@ -7,8 +7,8 @@ public:
         int low = 1, high = x;
 
         while (low <= high) {
-            int mid = low + (high - low) / 2;
-            long long val = 1LL * mid * mid;  // prevent overflow
+            long long mid = low + (high - low) / 2;
+            long long val = mid * mid;  // prevent overflow
 
             if (val <= x) {
                 ans = mid;
