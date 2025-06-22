@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Selvarajan-M/leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Selvarajan-M/leetcode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Selvarajan-M/leetcode-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Selvarajan-M/leetcode-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Selvarajan-M/leetcode-/tree/master/2227-sum-of-subarray-ranges) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SELVARAJAN01/leetcode-/tree/master/2480-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Selvarajan-M/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Selvarajan-M/leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Selvarajan-M/leetcode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Selvarajan-M/leetcode-/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
