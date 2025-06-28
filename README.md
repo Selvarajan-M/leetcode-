@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/SELVARAJAN01/leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Selvarajan-M/leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Selvarajan-M/leetcode-/tree/master/0485-max-consecutive-ones) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Selvarajan-M/leetcode-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Selvarajan-M/leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SELVARAJAN01/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Selvarajan-M/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/Selvarajan-M/leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Selvarajan-M/leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SELVARAJAN01/leetcode-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Selvarajan-M/leetcode-/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/SELVARAJAN01/leetcode-/tree/master/0221-maximal-square) |
+| [0410-split-array-largest-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/SELVARAJAN01/leetcode-/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Selvarajan-M/leetcode-/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SELVARAJAN01/leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Selvarajan-M/leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Selvarajan-M/leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Selvarajan-M/leetcode-/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Selvarajan-M/leetcode-/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Selvarajan-M/leetcode-/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Selvarajan-M/leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Selvarajan-M/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Selvarajan-M/leetcode-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Selvarajan-M/leetcode-/tree/master/0678-valid-parenthesis-string) |
