@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Selvarajan-M/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SELVARAJAN01/leetcode-/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/SELVARAJAN01/leetcode-/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SELVARAJAN01/leetcode-/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Selvarajan-M/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SELVARAJAN01/leetcode-/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/SELVARAJAN01/leetcode-/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SELVARAJAN01/leetcode-/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Selvarajan-M/leetcode-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SELVARAJAN01/leetcode-/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/SELVARAJAN01/leetcode-/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SELVARAJAN01/leetcode-/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SELVARAJAN01/leetcode-/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Selvarajan-M/leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SELVARAJAN01/leetcode-/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Selvarajan-M/leetcode-/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
